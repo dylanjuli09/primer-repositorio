@@ -1,2 +1,2 @@
 nombre = "ud"
-print("Hola " + nombre + " dale papucho avisa")
+print("Hola " + nombre + " dale papucho avisa que me voy")
