@@ -1,6 +1,5 @@
-numero1 = 5
-numero2 = 6
-suma = numero1 + numero2
-print(suma)
+nombre = "Carlos"
+apellido = "Ñorse"
 
-print("El resultado de la suma es: " (numero1 + numero2))
+saludo = "Hola " + nombre + " " + apellido + " como estas?"
+print(saludo)
